@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-button-container {
+  margin-top: 20px;
+}
+
+.App-set-definition-input {
+    width: 400px;
+    text-align: left;
+    border-width: 1px;
+    border-radius: 1rem;
+}
+
+.App-output {
+  width: 600px;
+  text-align: left;
+  border-width: 1px;
+  border-radius: 1rem;
+}
+
+.App-set-address-input {
+  width: 400px;
+  text-align: center;
+  border-width: 1px;
+  border-radius: 1rem;
+}
+
+.App-logo {
+  width: 300px;
+  margin: 20px;
+}
+
+.App-quantity-input-in-button {
+  width: 100%
+}
+
+.App-footer-logo {
+  width: 100px;
+  margin: 20px;
+  text-align: right;
+}
+
+
+.App-button {
+  display: inline-block;
+  padding: 0.2rem;
+  border-width: 0;
+  border-radius: 500rem;
+  background-color: #0A46D7;
+  -webkit-transition: all .25s;
+  -o-transition: all .25s;
+  transition: all .25s;
+  margin: 0.5rem;
+  font-family: "GorditaMedium", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: #ffffff; }
+  .App-button:link, .App-button:hover, .App-button:active, .App-button:focus, .App-button:visited, App-button:disabled {
+    color: #ffffff;
+    text-decoration: none; }
+  
+  @media screen and (min-width: 768px) {
+    .App-button {
+      padding: .9375rem 2.5rem .75rem 2.5rem; } }
+  .App-button:hover {
+    background-color: #0836a6; }
+  .App-button:disabled {
+    background-color: dimgrey 
+  }
+  .App-button--small {
+    padding: 1rem;
+    height: 75%;
+   }
+  .App-button--alt {
+    padding-left: 5.333rem;
+    padding-right: 5.333rem; }
+    @media screen and (min-width: 768px) {
+      .App-button--alt {
+        padding-left: 4rem;
+        padding-right: 4rem; } }

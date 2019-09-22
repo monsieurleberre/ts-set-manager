@@ -1,0 +1,61 @@
+{
+  "name": "Top 4 Scalability Services",
+  "symbol": "L1SCA004",
+  "components": [
+    {
+      "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "name": "OMGToken",
+      "symbol": "OMG",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "1.049",
+        "ask": "1.049"
+      },
+      "proportion": "0.25"
+    },
+    {
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.01297",
+        "ask": "0.01297"
+      },
+      "proportion": "0.25"
+    },
+    {
+      "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+      "name": "CelerToken",
+      "symbol": "CELR",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.005354",
+        "ask": "0.005354"
+      },
+      "proportion": "0.25"
+    },
+    {
+      "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+      "name": "Fantom Token",
+      "symbol": "FTM",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.01575",
+        "ask": "0.01575"
+      },
+      "proportion": "0.25"
+    }
+  ],
+  "componentAddresses": [
+    "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+    "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+    "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+  ],
+  "targetUsdPrice": 0.1,
+  "usdBidAsk": {
+    "bid": "0.2707685",
+    "ask": "0.2707685"
+  }
+}

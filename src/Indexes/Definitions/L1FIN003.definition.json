@@ -1,0 +1,10 @@
+{
+    "name": "Top 3 Financial Services",
+    "symbol": "L1FIN003",
+    "targetUsdPrice": 0.1,
+    "componentAddresses": [
+        "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+        "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+        "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
+    ]
+}

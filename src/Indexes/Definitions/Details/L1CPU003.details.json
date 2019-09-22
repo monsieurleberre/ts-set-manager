@@ -1,0 +1,49 @@
+{
+  "name": "Top 3 Computation Services",
+  "symbol": "L1CPU003",
+  "components": [
+    {
+      "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+      "name": "ELF Token",
+      "symbol": "ELF",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.08069",
+        "ask": "0.08069"
+      },
+      "proportion": "0.33333333333334"
+    },
+    {
+      "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+      "name": "ArcBlock",
+      "symbol": "ABT",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.202",
+        "ask": "0.202"
+      },
+      "proportion": "0.33333333333333"
+    },
+    {
+      "address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+      "name": "Ankr Network",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.003302",
+        "ask": "0.003302"
+      },
+      "proportion": "0.33333333333333"
+    }
+  ],
+  "componentAddresses": [
+    "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+    "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+    "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
+  ],
+  "targetUsdPrice": 0.1,
+  "usdBidAsk": {
+    "bid": "0.09533066666666652026",
+    "ask": "0.09533066666666652026"
+  }
+}

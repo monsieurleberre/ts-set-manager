@@ -1,0 +1,14 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Karla");
+@font-face {
+  font-family: "GorditaBold";
+  src: url("assets/GorditaBold.ttf"); }
+
+@font-face {
+  font-family: "GorditaMedium";
+  src: url("assets/GorditaMedium.ttf"); }
+ 

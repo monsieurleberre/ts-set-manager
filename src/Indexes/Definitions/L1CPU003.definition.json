@@ -1,0 +1,10 @@
+{
+    "name": "Top 3 Computation Services",
+    "symbol": "L1CPU003",
+    "targetUsdPrice": 0.1,
+    "componentAddresses": [
+        "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+        "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+        "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"        
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Top 3 Market Cap for Exchanges",
+    "symbol": "L1EXC003",
+    "components": [
+      {
+        "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "name": "HuobiToken",
+        "symbol": "HT",
+        "decimals": 18,
+        "usdBidAsk": {
+          "bid": "4.013e+0",
+          "ask": "4.013e+0"
+        },
+        "proportion": "3.3333333333334e-1"
+      },
+      {
+        "address": "0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+        "name": "Kucoin Shares",
+        "symbol": "KCS",
+        "decimals": 6,
+        "usdBidAsk": {
+          "bid": "1.523e+0",
+          "ask": "1.523e+0"
+        },
+        "proportion": "3.3333333333333e-1"
+      },
+      {
+        "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "usdBidAsk": {
+          "bid": "2.664e+0",
+          "ask": "2.664e+0"
+        },
+        "proportion": "3.3333333333333e-1"
+      }
+    ],
+    "componentAddresses": [
+      "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+      "0x75231f58b43240c9718dd58b4967c5114342a86c"
+    ],
+    "targetUsdPrice": 10,
+    "usdBidAsk": {
+      "bid": "2.73333333333334613e+0",
+      "ask": "2.73333333333334613e+0"
+    }
+  }

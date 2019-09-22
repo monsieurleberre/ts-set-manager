@@ -1,0 +1,11 @@
+{
+    "name": "Top 4 Scalability Services",
+    "symbol": "L1SCA004",
+    "targetUsdPrice": 0.1,
+    "componentAddresses": [
+        "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+        "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+        "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+    ]
+}

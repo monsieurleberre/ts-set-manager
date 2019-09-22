@@ -1,0 +1,6553 @@
+{
+    "Response": "Success",
+    "Message": "",
+    "HasWarning": false,
+    "Type": 100,
+    "RateLimit": {},
+    "Data": [
+        {
+            "exchange": "HuobiPro",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978571
+        },
+        {
+            "exchange": "HitBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EOSDT",
+            "fsym": "BTC",
+            "tsym": "EOSDT",
+            "last_update": 1561709636
+        },
+        {
+            "exchange": "ABCC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978582
+        },
+        {
+            "exchange": "Bibox",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1554978593
+        },
+        {
+            "exchange": "Bibox",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978594
+        },
+        {
+            "exchange": "Bibox",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GUSD",
+            "fsym": "BTC",
+            "tsym": "GUSD",
+            "last_update": 1554978596
+        },
+        {
+            "exchange": "BigONE",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978599
+        },
+        {
+            "exchange": "Binance",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978610
+        },
+        {
+            "exchange": "Binance",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554978612
+        },
+        {
+            "exchange": "Binance",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1554978616
+        },
+        {
+            "exchange": "Binance",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554978617
+        },
+        {
+            "exchange": "Bit2C",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NIS",
+            "fsym": "BTC",
+            "tsym": "ILS",
+            "last_update": 1554978618
+        },
+        {
+            "exchange": "BitexBook",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978618
+        },
+        {
+            "exchange": "BitexBook",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554978618
+        },
+        {
+            "exchange": "BitexBook",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BYN",
+            "fsym": "BTC",
+            "tsym": "BYN",
+            "last_update": 1554978618
+        },
+        {
+            "exchange": "Bitfinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978619
+        },
+        {
+            "exchange": "Bitfinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978620
+        },
+        {
+            "exchange": "Bitfinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978623
+        },
+        {
+            "exchange": "Bitfinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554978623
+        },
+        {
+            "exchange": "Bitfinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UST",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978629
+        },
+        {
+            "exchange": "bitFlyer",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554978630
+        },
+        {
+            "exchange": "bitFlyer",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978630
+        },
+        {
+            "exchange": "bitFlyerFX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554978630
+        },
+        {
+            "exchange": "Bithumb",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1554978630
+        },
+        {
+            "exchange": "BitMarket",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PLN",
+            "fsym": "BTC",
+            "tsym": "PLN",
+            "last_update": 1554978632
+        },
+        {
+            "exchange": "BitMarket",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978632
+        },
+        {
+            "exchange": "Bitso",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MXN",
+            "fsym": "BTC",
+            "tsym": "MXN",
+            "last_update": 1554978633
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978633
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978633
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978634
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BRL",
+            "fsym": "BTC",
+            "tsym": "BRL",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CHF",
+            "fsym": "BTC",
+            "tsym": "CHF",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KPW",
+            "fsym": "BTC",
+            "tsym": "KPW",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "Bitstamp",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "Bitstamp",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978635
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LAK",
+            "fsym": "BTC",
+            "tsym": "LAK",
+            "last_update": 1564488117
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LBP",
+            "fsym": "BTC",
+            "tsym": "LBP",
+            "last_update": 1564488124
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LKR",
+            "fsym": "BTC",
+            "tsym": "LKR",
+            "last_update": 1564488134
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XOF",
+            "fsym": "BTC",
+            "tsym": "XOF",
+            "last_update": 1564488530
+        },
+        {
+            "exchange": "BitTrex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978643
+        },
+        {
+            "exchange": "FCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1563538401
+        },
+        {
+            "exchange": "BitTrex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978647
+        },
+        {
+            "exchange": "Bleutrade",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DOGE",
+            "fsym": "BTC",
+            "tsym": "DOGE",
+            "last_update": 1554978651
+        },
+        {
+            "exchange": "Bleutrade",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETH",
+            "fsym": "BTC",
+            "tsym": "ETH",
+            "last_update": 1554978652
+        },
+        {
+            "exchange": "Bleutrade",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978654
+        },
+        {
+            "exchange": "FCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1563538502
+        },
+        {
+            "exchange": "BTCMarkets",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554978657
+        },
+        {
+            "exchange": "Cexio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978658
+        },
+        {
+            "exchange": "Cexio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978658
+        },
+        {
+            "exchange": "Cexio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978658
+        },
+        {
+            "exchange": "Cexio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554978658
+        },
+        {
+            "exchange": "Coinbase",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978659
+        },
+        {
+            "exchange": "Coinbase",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978659
+        },
+        {
+            "exchange": "Coinbase",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978659
+        },
+        {
+            "exchange": "Coinbase",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554978660
+        },
+        {
+            "exchange": "Coincheck",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554978660
+        },
+        {
+            "exchange": "CoinCorner",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978660
+        },
+        {
+            "exchange": "CoinCorner",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978660
+        },
+        {
+            "exchange": "Coinfloor",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978660
+        },
+        {
+            "exchange": "Coinfloor",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978661
+        },
+        {
+            "exchange": "Coinfloor",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978661
+        },
+        {
+            "exchange": "Coinfloor",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "PLN",
+            "fsym": "BTC",
+            "tsym": "PLN",
+            "last_update": 1554978661
+        },
+        {
+            "exchange": "Coinone",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1554978661
+        },
+        {
+            "exchange": "Exmo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978683
+        },
+        {
+            "exchange": "Exmo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978683
+        },
+        {
+            "exchange": "Exmo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554978683
+        },
+        {
+            "exchange": "Exmo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UAH",
+            "fsym": "BTC",
+            "tsym": "UAH",
+            "last_update": 1554978683
+        },
+        {
+            "exchange": "Exmo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PLN",
+            "fsym": "BTC",
+            "tsym": "PLN",
+            "last_update": 1554978683
+        },
+        {
+            "exchange": "Exmo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978684
+        },
+        {
+            "exchange": "Exmo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TRY",
+            "fsym": "BTC",
+            "tsym": "TRY",
+            "last_update": 1554978686
+        },
+        {
+            "exchange": "Gatecoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978687
+        },
+        {
+            "exchange": "Gatecoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HKD",
+            "fsym": "BTC",
+            "tsym": "HKD",
+            "last_update": 1554978687
+        },
+        {
+            "exchange": "Gatecoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978687
+        },
+        {
+            "exchange": "Gatecoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XJP",
+            "fsym": "BTC",
+            "tsym": "XJP",
+            "last_update": 1554978689
+        },
+        {
+            "exchange": "Gatecoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1554978691
+        },
+        {
+            "exchange": "Gatecoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USC",
+            "fsym": "BTC",
+            "tsym": "USC",
+            "last_update": 1554978691
+        },
+        {
+            "exchange": "Gemini",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978691
+        },
+        {
+            "exchange": "itBit",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978691
+        },
+        {
+            "exchange": "itBit",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978692
+        },
+        {
+            "exchange": "itBit",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1554978692
+        },
+        {
+            "exchange": "Korbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1554978692
+        },
+        {
+            "exchange": "Kraken",
+            "exchange_fsym": "XXBT",
+            "exchange_tsym": "ZCAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1554978694
+        },
+        {
+            "exchange": "Kraken",
+            "exchange_fsym": "XXBT",
+            "exchange_tsym": "ZEUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978694
+        },
+        {
+            "exchange": "Kraken",
+            "exchange_fsym": "XXBT",
+            "exchange_tsym": "ZGBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978694
+        },
+        {
+            "exchange": "Kraken",
+            "exchange_fsym": "XXBT",
+            "exchange_tsym": "ZJPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554978694
+        },
+        {
+            "exchange": "Kraken",
+            "exchange_fsym": "XXBT",
+            "exchange_tsym": "ZUSD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978694
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HKD",
+            "fsym": "BTC",
+            "tsym": "HKD",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CHF",
+            "fsym": "BTC",
+            "tsym": "CHF",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NZD",
+            "fsym": "BTC",
+            "tsym": "NZD",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NGN",
+            "fsym": "BTC",
+            "tsym": "NGN",
+            "last_update": 1554978695
+        },
+        {
+            "exchange": "coss",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1557409011
+        },
+        {
+            "exchange": "LiveCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978707
+        },
+        {
+            "exchange": "LiveCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978708
+        },
+        {
+            "exchange": "LiveCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUR",
+            "fsym": "BTC",
+            "tsym": "RUR",
+            "last_update": 1554978712
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "COP",
+            "fsym": "BTC",
+            "tsym": "COP",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NZD",
+            "fsym": "BTC",
+            "tsym": "NZD",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GHS",
+            "fsym": "BTC",
+            "tsym": "GHS",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NGN",
+            "fsym": "BTC",
+            "tsym": "NGN",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EGP",
+            "fsym": "BTC",
+            "tsym": "EGP",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IDR",
+            "fsym": "BTC",
+            "tsym": "IDR",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BHD",
+            "fsym": "BTC",
+            "tsym": "BHD",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CRC",
+            "fsym": "BTC",
+            "tsym": "CRC",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PEN",
+            "fsym": "BTC",
+            "tsym": "PEN",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AED",
+            "fsym": "BTC",
+            "tsym": "AED",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DOP",
+            "fsym": "BTC",
+            "tsym": "DOP",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LKR",
+            "fsym": "BTC",
+            "tsym": "LKR",
+            "last_update": 1554978719
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETH",
+            "fsym": "BTC",
+            "tsym": "ETH",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PKR",
+            "fsym": "BTC",
+            "tsym": "PKR",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HUF",
+            "fsym": "BTC",
+            "tsym": "HUF",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VND",
+            "fsym": "BTC",
+            "tsym": "VND",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XAR",
+            "fsym": "BTC",
+            "tsym": "XAR",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LTC",
+            "fsym": "BTC",
+            "tsym": "LTC",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RON",
+            "fsym": "BTC",
+            "tsym": "RON",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "OMR",
+            "fsym": "BTC",
+            "tsym": "OMR",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MYR",
+            "fsym": "BTC",
+            "tsym": "MYR",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DKK",
+            "fsym": "BTC",
+            "tsym": "DKK",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UAH",
+            "fsym": "BTC",
+            "tsym": "UAH",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UGX",
+            "fsym": "BTC",
+            "tsym": "UGX",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ZMW",
+            "fsym": "BTC",
+            "tsym": "ZMW",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SAR",
+            "fsym": "BTC",
+            "tsym": "SAR",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SEK",
+            "fsym": "BTC",
+            "tsym": "SEK",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HKD",
+            "fsym": "BTC",
+            "tsym": "HKD",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GEL",
+            "fsym": "BTC",
+            "tsym": "GEL",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RWF",
+            "fsym": "BTC",
+            "tsym": "RWF",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CHF",
+            "fsym": "BTC",
+            "tsym": "CHF",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IRR",
+            "fsym": "BTC",
+            "tsym": "IRR",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TZS",
+            "fsym": "BTC",
+            "tsym": "TZS",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VEF",
+            "fsym": "BTC",
+            "tsym": "VEF",
+            "last_update": 1554978720
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BDT",
+            "fsym": "BTC",
+            "tsym": "BDT",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HRK",
+            "fsym": "BTC",
+            "tsym": "HRK",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PLN",
+            "fsym": "BTC",
+            "tsym": "PLN",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CLP",
+            "fsym": "BTC",
+            "tsym": "CLP",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "THB",
+            "fsym": "BTC",
+            "tsym": "THB",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XAF",
+            "fsym": "BTC",
+            "tsym": "XAF",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TRY",
+            "fsym": "BTC",
+            "tsym": "TRY",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ARS",
+            "fsym": "BTC",
+            "tsym": "ARS",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UYU",
+            "fsym": "BTC",
+            "tsym": "UYU",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SZL",
+            "fsym": "BTC",
+            "tsym": "SZL",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KZT",
+            "fsym": "BTC",
+            "tsym": "KZT",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NOK",
+            "fsym": "BTC",
+            "tsym": "NOK",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KES",
+            "fsym": "BTC",
+            "tsym": "KES",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAB",
+            "fsym": "BTC",
+            "tsym": "PAB",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "INR",
+            "fsym": "BTC",
+            "tsym": "INR",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MXN",
+            "fsym": "BTC",
+            "tsym": "MXN",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CZK",
+            "fsym": "BTC",
+            "tsym": "CZK",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BRL",
+            "fsym": "BTC",
+            "tsym": "BRL",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MAD",
+            "fsym": "BTC",
+            "tsym": "MAD",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TWD",
+            "fsym": "BTC",
+            "tsym": "TWD",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BYN",
+            "fsym": "BTC",
+            "tsym": "BYN",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PHP",
+            "fsym": "BTC",
+            "tsym": "PHP",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ZAR",
+            "fsym": "BTC",
+            "tsym": "ZAR",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ILS",
+            "fsym": "BTC",
+            "tsym": "ILS",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BOB",
+            "fsym": "BTC",
+            "tsym": "BOB",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CDF",
+            "fsym": "BTC",
+            "tsym": "CDF",
+            "last_update": 1554978721
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DASH",
+            "fsym": "BTC",
+            "tsym": "DASH",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VES",
+            "fsym": "BTC",
+            "tsym": "VES",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ISK",
+            "fsym": "BTC",
+            "tsym": "ISK",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MWK",
+            "fsym": "BTC",
+            "tsym": "MWK",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BAM",
+            "fsym": "BTC",
+            "tsym": "BAM",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TTD",
+            "fsym": "BTC",
+            "tsym": "TTD",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XRP",
+            "fsym": "BTC",
+            "tsym": "XRP",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JOD",
+            "fsym": "BTC",
+            "tsym": "JOD",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RSD",
+            "fsym": "BTC",
+            "tsym": "RSD",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HNL",
+            "fsym": "BTC",
+            "tsym": "HNL",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BGN",
+            "fsym": "BTC",
+            "tsym": "BGN",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GTQ",
+            "fsym": "BTC",
+            "tsym": "GTQ",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BWP",
+            "fsym": "BTC",
+            "tsym": "BWP",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XMR",
+            "fsym": "BTC",
+            "tsym": "XMR",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MMK",
+            "fsym": "BTC",
+            "tsym": "MMK",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "QAR",
+            "fsym": "BTC",
+            "tsym": "QAR",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XOF",
+            "fsym": "BTC",
+            "tsym": "XOF",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AOA",
+            "fsym": "BTC",
+            "tsym": "AOA",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KWD",
+            "fsym": "BTC",
+            "tsym": "KWD",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MUR",
+            "fsym": "BTC",
+            "tsym": "MUR",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "Luno",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "Luno",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "ZAR",
+            "fsym": "BTC",
+            "tsym": "ZAR",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "Luno",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "NGN",
+            "fsym": "BTC",
+            "tsym": "NGN",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "Luno",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "MYR",
+            "fsym": "BTC",
+            "tsym": "MYR",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "Luno",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "IDR",
+            "fsym": "BTC",
+            "tsym": "IDR",
+            "last_update": 1554978722
+        },
+        {
+            "exchange": "Luno",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978723
+        },
+        {
+            "exchange": "MercadoBitcoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BRL",
+            "fsym": "BTC",
+            "tsym": "BRL",
+            "last_update": 1554978723
+        },
+        {
+            "exchange": "Poloniex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978724
+        },
+        {
+            "exchange": "Poloniex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554978727
+        },
+        {
+            "exchange": "coss",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1557409029
+        },
+        {
+            "exchange": "TheRockTrading",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978728
+        },
+        {
+            "exchange": "TheRockTrading",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GUSD",
+            "fsym": "BTC",
+            "tsym": "GUSD",
+            "last_update": 1554978728
+        },
+        {
+            "exchange": "Tidex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "WUSD",
+            "fsym": "BTC",
+            "tsym": "WUSD",
+            "last_update": 1554978730
+        },
+        {
+            "exchange": "Tidex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "WEUR",
+            "fsym": "BTC",
+            "tsym": "WEUR",
+            "last_update": 1554978730
+        },
+        {
+            "exchange": "Tidex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554978736
+        },
+        {
+            "exchange": "Vaultoro",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GOLD",
+            "fsym": "BTC",
+            "tsym": "GOLD",
+            "last_update": 1554978741
+        },
+        {
+            "exchange": "WavesDEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554978743
+        },
+        {
+            "exchange": "WavesDEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978743
+        },
+        {
+            "exchange": "WavesDEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "WAVES",
+            "fsym": "BTC",
+            "tsym": "WAVES",
+            "last_update": 1554978743
+        },
+        {
+            "exchange": "WavesDEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "WTRY",
+            "fsym": "BTC",
+            "tsym": "WTRY",
+            "last_update": 1554978743
+        },
+        {
+            "exchange": "bybit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1564482261
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LRD",
+            "fsym": "BTC",
+            "tsym": "LRD",
+            "last_update": 1564488149
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LSL",
+            "fsym": "BTC",
+            "tsym": "LSL",
+            "last_update": 1564488158
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LYD",
+            "fsym": "BTC",
+            "tsym": "LYD",
+            "last_update": 1564488163
+        },
+        {
+            "exchange": "oex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1562081337
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AWG",
+            "fsym": "BTC",
+            "tsym": "AWG",
+            "last_update": 1564486974
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MAD",
+            "fsym": "BTC",
+            "tsym": "MAD",
+            "last_update": 1564488169
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MDL",
+            "fsym": "BTC",
+            "tsym": "MDL",
+            "last_update": 1564488176
+        },
+        {
+            "exchange": "oex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BTO",
+            "fsym": "BTC",
+            "tsym": "BTO",
+            "last_update": 1562082936
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1562154723
+        },
+        {
+            "exchange": "Exenium",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1562239273
+        },
+        {
+            "exchange": "bitci",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TRY",
+            "fsym": "BTC",
+            "tsym": "TRY",
+            "last_update": 1562239292
+        },
+        {
+            "exchange": "raidofinance",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EURS",
+            "fsym": "BTC",
+            "tsym": "EURS",
+            "last_update": 1563877901
+        },
+        {
+            "exchange": "CoinBene",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BRL",
+            "fsym": "BTC",
+            "tsym": "BRL",
+            "last_update": 1562319631
+        },
+        {
+            "exchange": "bitci",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CHFT",
+            "fsym": "BTC",
+            "tsym": "CHFT",
+            "last_update": 1562323125
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BAM",
+            "fsym": "BTC",
+            "tsym": "BAM",
+            "last_update": 1564486995
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MKD",
+            "fsym": "BTC",
+            "tsym": "MKD",
+            "last_update": 1564488188
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MMK",
+            "fsym": "BTC",
+            "tsym": "MMK",
+            "last_update": 1564488193
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MNT",
+            "fsym": "BTC",
+            "tsym": "MNT",
+            "last_update": 1564488198
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MOP",
+            "fsym": "BTC",
+            "tsym": "MOP",
+            "last_update": 1564488203
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MRO",
+            "fsym": "BTC",
+            "tsym": "MRO",
+            "last_update": 1564488209
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MUR",
+            "fsym": "BTC",
+            "tsym": "MUR",
+            "last_update": 1564488214
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MVR",
+            "fsym": "BTC",
+            "tsym": "MVR",
+            "last_update": 1564488220
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MWK",
+            "fsym": "BTC",
+            "tsym": "MWK",
+            "last_update": 1564488227
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MXN",
+            "fsym": "BTC",
+            "tsym": "MXN",
+            "last_update": 1564488233
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MYR",
+            "fsym": "BTC",
+            "tsym": "MYR",
+            "last_update": 1564488243
+        },
+        {
+            "exchange": "ataix",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1562653360
+        },
+        {
+            "exchange": "BCEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VOLLAR",
+            "fsym": "BTC",
+            "tsym": "VOLLAR",
+            "last_update": 1562773286
+        },
+        {
+            "exchange": "BCEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CKUSD",
+            "fsym": "BTC",
+            "tsym": "CKUSD",
+            "last_update": 1562773286
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SEK",
+            "fsym": "BTC",
+            "tsym": "SEK",
+            "last_update": 1562773311
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CZK",
+            "fsym": "BTC",
+            "tsym": "CZK",
+            "last_update": 1562773311
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KHR",
+            "fsym": "BTC",
+            "tsym": "KHR",
+            "last_update": 1562773312
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DASH",
+            "fsym": "BTC",
+            "tsym": "DASH",
+            "last_update": 1562773314
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BHD",
+            "fsym": "BTC",
+            "tsym": "BHD",
+            "last_update": 1562773315
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ZAR",
+            "fsym": "BTC",
+            "tsym": "ZAR",
+            "last_update": 1562773315
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CRC",
+            "fsym": "BTC",
+            "tsym": "CRC",
+            "last_update": 1562773315
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1562773316
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NOK",
+            "fsym": "BTC",
+            "tsym": "NOK",
+            "last_update": 1562773316
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PLN",
+            "fsym": "BTC",
+            "tsym": "PLN",
+            "last_update": 1562773316
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ILS",
+            "fsym": "BTC",
+            "tsym": "ILS",
+            "last_update": 1562773316
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VUV",
+            "fsym": "BTC",
+            "tsym": "VUV",
+            "last_update": 1562773317
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NZD",
+            "fsym": "BTC",
+            "tsym": "NZD",
+            "last_update": 1562773317
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LTC",
+            "fsym": "BTC",
+            "tsym": "LTC",
+            "last_update": 1562773318
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HKD",
+            "fsym": "BTC",
+            "tsym": "HKD",
+            "last_update": 1562773318
+        },
+        {
+            "exchange": "BitTrex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BITCNY",
+            "fsym": "BTC",
+            "tsym": "BITCNY",
+            "last_update": 1562773353
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BBD",
+            "fsym": "BTC",
+            "tsym": "BBD",
+            "last_update": 1564487006
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NAD",
+            "fsym": "BTC",
+            "tsym": "NAD",
+            "last_update": 1564488253
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NGN",
+            "fsym": "BTC",
+            "tsym": "NGN",
+            "last_update": 1564488263
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BGN",
+            "fsym": "BTC",
+            "tsym": "BGN",
+            "last_update": 1564487029
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NPR",
+            "fsym": "BTC",
+            "tsym": "NPR",
+            "last_update": 1564488276
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "OMR",
+            "fsym": "BTC",
+            "tsym": "OMR",
+            "last_update": 1564488281
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAB",
+            "fsym": "BTC",
+            "tsym": "PAB",
+            "last_update": 1564488288
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PEN",
+            "fsym": "BTC",
+            "tsym": "PEN",
+            "last_update": 1564488295
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PGK",
+            "fsym": "BTC",
+            "tsym": "PGK",
+            "last_update": 1564488302
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PHP",
+            "fsym": "BTC",
+            "tsym": "PHP",
+            "last_update": 1564488308
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PKR",
+            "fsym": "BTC",
+            "tsym": "PKR",
+            "last_update": 1564488313
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PYG",
+            "fsym": "BTC",
+            "tsym": "PYG",
+            "last_update": 1564488320
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "QAR",
+            "fsym": "BTC",
+            "tsym": "QAR",
+            "last_update": 1564488325
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BIF",
+            "fsym": "BTC",
+            "tsym": "BIF",
+            "last_update": 1564487044
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BMD",
+            "fsym": "BTC",
+            "tsym": "BMD",
+            "last_update": 1564487050
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BND",
+            "fsym": "BTC",
+            "tsym": "BND",
+            "last_update": 1564487055
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1564488341
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RWF",
+            "fsym": "BTC",
+            "tsym": "RWF",
+            "last_update": 1564488346
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SAR",
+            "fsym": "BTC",
+            "tsym": "SAR",
+            "last_update": 1564488350
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XMR",
+            "fsym": "BTC",
+            "tsym": "XMR",
+            "last_update": 1564496416
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XLM",
+            "fsym": "BTC",
+            "tsym": "XLM",
+            "last_update": 1564496417
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BWP",
+            "fsym": "BTC",
+            "tsym": "BWP",
+            "last_update": 1564487075
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SCR",
+            "fsym": "BTC",
+            "tsym": "SCR",
+            "last_update": 1564488364
+        },
+        {
+            "exchange": "CCEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LTC",
+            "fsym": "BTC",
+            "tsym": "LTC",
+            "last_update": 1562773816
+        },
+        {
+            "exchange": "CCEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1562773817
+        },
+        {
+            "exchange": "altilly",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1549497600
+        },
+        {
+            "exchange": "CoinEx",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BCH",
+            "fsym": "BTC",
+            "tsym": "BCH",
+            "last_update": 1562773857
+        },
+        {
+            "exchange": "CryptoBulls",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BCH",
+            "fsym": "BTC",
+            "tsym": "BCH",
+            "last_update": 1562773863
+        },
+        {
+            "exchange": "onederx",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1564398045
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BZD",
+            "fsym": "BTC",
+            "tsym": "BZD",
+            "last_update": 1564487094
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CDF",
+            "fsym": "BTC",
+            "tsym": "CDF",
+            "last_update": 1564487101
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CLP",
+            "fsym": "BTC",
+            "tsym": "CLP",
+            "last_update": 1564487108
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "COP",
+            "fsym": "BTC",
+            "tsym": "COP",
+            "last_update": 1564487110
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CUP",
+            "fsym": "BTC",
+            "tsym": "CUP",
+            "last_update": 1564487116
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CVE",
+            "fsym": "BTC",
+            "tsym": "CVE",
+            "last_update": 1564487125
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DJF",
+            "fsym": "BTC",
+            "tsym": "DJF",
+            "last_update": 1564487134
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DKK",
+            "fsym": "BTC",
+            "tsym": "DKK",
+            "last_update": 1564487140
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DOP",
+            "fsym": "BTC",
+            "tsym": "DOP",
+            "last_update": 1564487146
+        },
+        {
+            "exchange": "Coinbase",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1562773861
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AED",
+            "fsym": "BTC",
+            "tsym": "AED",
+            "last_update": 1563964612
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1563964613
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IDR",
+            "fsym": "BTC",
+            "tsym": "IDR",
+            "last_update": 1563964614
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NGN",
+            "fsym": "BTC",
+            "tsym": "NGN",
+            "last_update": 1563964615
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1563964616
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TRY",
+            "fsym": "BTC",
+            "tsym": "TRY",
+            "last_update": 1563964617
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UAH",
+            "fsym": "BTC",
+            "tsym": "UAH",
+            "last_update": 1563964618
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VND",
+            "fsym": "BTC",
+            "tsym": "VND",
+            "last_update": 1563964621
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DZD",
+            "fsym": "BTC",
+            "tsym": "DZD",
+            "last_update": 1564487157
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EGP",
+            "fsym": "BTC",
+            "tsym": "EGP",
+            "last_update": 1564487163
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ERN",
+            "fsym": "BTC",
+            "tsym": "ERN",
+            "last_update": 1564487170
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETB",
+            "fsym": "BTC",
+            "tsym": "ETB",
+            "last_update": 1564487175
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "FJD",
+            "fsym": "BTC",
+            "tsym": "FJD",
+            "last_update": 1564487182
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "FKP",
+            "fsym": "BTC",
+            "tsym": "FKP",
+            "last_update": 1564487191
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GEL",
+            "fsym": "BTC",
+            "tsym": "GEL",
+            "last_update": 1564487197
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1564488375
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AED",
+            "fsym": "BTC",
+            "tsym": "AED",
+            "last_update": 1564409977
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ALL",
+            "fsym": "BTC",
+            "tsym": "ALL",
+            "last_update": 1564409984
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AMD",
+            "fsym": "BTC",
+            "tsym": "AMD",
+            "last_update": 1564409991
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ANG",
+            "fsym": "BTC",
+            "tsym": "ANG",
+            "last_update": 1564409998
+        },
+        {
+            "exchange": "Yobit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUR",
+            "fsym": "BTC",
+            "tsym": "RUR",
+            "last_update": 1554978989
+        },
+        {
+            "exchange": "Yobit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554978989
+        },
+        {
+            "exchange": "Zaif",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GHS",
+            "fsym": "BTC",
+            "tsym": "GHS",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "INR",
+            "fsym": "BTC",
+            "tsym": "INR",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IRR",
+            "fsym": "BTC",
+            "tsym": "IRR",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KES",
+            "fsym": "BTC",
+            "tsym": "KES",
+            "last_update": 1554979023
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MYR",
+            "fsym": "BTC",
+            "tsym": "MYR",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NGN",
+            "fsym": "BTC",
+            "tsym": "NGN",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NPR",
+            "fsym": "BTC",
+            "tsym": "NPR",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PHP",
+            "fsym": "BTC",
+            "tsym": "PHP",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PKR",
+            "fsym": "BTC",
+            "tsym": "PKR",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SEK",
+            "fsym": "BTC",
+            "tsym": "SEK",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TRY",
+            "fsym": "BTC",
+            "tsym": "TRY",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TZS",
+            "fsym": "BTC",
+            "tsym": "TZS",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UGX",
+            "fsym": "BTC",
+            "tsym": "UGX",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VND",
+            "fsym": "BTC",
+            "tsym": "VND",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Remitano",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ZAR",
+            "fsym": "BTC",
+            "tsym": "ZAR",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "BXinth",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "THB",
+            "fsym": "BTC",
+            "tsym": "THB",
+            "last_update": 1554979024
+        },
+        {
+            "exchange": "Gateio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979025
+        },
+        {
+            "exchange": "Gateio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNYX",
+            "fsym": "BTC",
+            "tsym": "CNYX",
+            "last_update": 1554979038
+        },
+        {
+            "exchange": "Kraken",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LTC",
+            "fsym": "BTC",
+            "tsym": "LTC",
+            "last_update": 1562774553
+        },
+        {
+            "exchange": "LakeBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1562774569
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LBP",
+            "fsym": "BTC",
+            "tsym": "LBP",
+            "last_update": 1562774579
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PGK",
+            "fsym": "BTC",
+            "tsym": "PGK",
+            "last_update": 1562774580
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MDL",
+            "fsym": "BTC",
+            "tsym": "MDL",
+            "last_update": 1562774580
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IQD",
+            "fsym": "BTC",
+            "tsym": "IQD",
+            "last_update": 1562774580
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UZS",
+            "fsym": "BTC",
+            "tsym": "UZS",
+            "last_update": 1562774581
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LSL",
+            "fsym": "BTC",
+            "tsym": "LSL",
+            "last_update": 1562774581
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KHR",
+            "fsym": "BTC",
+            "tsym": "KHR",
+            "last_update": 1562774581
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DZD",
+            "fsym": "BTC",
+            "tsym": "DZD",
+            "last_update": 1562774582
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ALL",
+            "fsym": "BTC",
+            "tsym": "ALL",
+            "last_update": 1562774582
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BND",
+            "fsym": "BTC",
+            "tsym": "BND",
+            "last_update": 1562774582
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TND",
+            "fsym": "BTC",
+            "tsym": "TND",
+            "last_update": 1562774583
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GGP",
+            "fsym": "BTC",
+            "tsym": "GGP",
+            "last_update": 1562774583
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XAU",
+            "fsym": "BTC",
+            "tsym": "XAU",
+            "last_update": 1562774583
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AMD",
+            "fsym": "BTC",
+            "tsym": "AMD",
+            "last_update": 1562774583
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KGS",
+            "fsym": "BTC",
+            "tsym": "KGS",
+            "last_update": 1562774584
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GIP",
+            "fsym": "BTC",
+            "tsym": "GIP",
+            "last_update": 1562774584
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BIF",
+            "fsym": "BTC",
+            "tsym": "BIF",
+            "last_update": 1562774584
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PYG",
+            "fsym": "BTC",
+            "tsym": "PYG",
+            "last_update": 1562774585
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NPR",
+            "fsym": "BTC",
+            "tsym": "NPR",
+            "last_update": 1562774585
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NAD",
+            "fsym": "BTC",
+            "tsym": "NAD",
+            "last_update": 1562774585
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JMD",
+            "fsym": "BTC",
+            "tsym": "JMD",
+            "last_update": 1562774586
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETB",
+            "fsym": "BTC",
+            "tsym": "ETB",
+            "last_update": 1562774586
+        },
+        {
+            "exchange": "LocalBitcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "MOP",
+            "fsym": "BTC",
+            "tsym": "MOP",
+            "last_update": 1562774586
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ZEC",
+            "fsym": "BTC",
+            "tsym": "ZEC",
+            "last_update": 1562774590
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LTC",
+            "fsym": "BTC",
+            "tsym": "LTC",
+            "last_update": 1562774592
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1562774593
+        },
+        {
+            "exchange": "OKEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979051
+        },
+        {
+            "exchange": "EXX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979060
+        },
+        {
+            "exchange": "EXX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "QC",
+            "fsym": "BTC",
+            "tsym": "QC",
+            "last_update": 1554979061
+        },
+        {
+            "exchange": "EXX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979064
+        },
+        {
+            "exchange": "Kucoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979065
+        },
+        {
+            "exchange": "Kucoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979081
+        },
+        {
+            "exchange": "Kucoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1554979082
+        },
+        {
+            "exchange": "Kucoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979083
+        },
+        {
+            "exchange": "Kucoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1554979084
+        },
+        {
+            "exchange": "BitZ",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DKKT",
+            "fsym": "BTC",
+            "tsym": "DKKT",
+            "last_update": 1554979112
+        },
+        {
+            "exchange": "BitZ",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979112
+        },
+        {
+            "exchange": "BitBank",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979118
+        },
+        {
+            "exchange": "TradeSatoshi",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979137
+        },
+        {
+            "exchange": "VBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VND",
+            "fsym": "BTC",
+            "tsym": "VND",
+            "last_update": 1554979161
+        },
+        {
+            "exchange": "ChileBit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CLP",
+            "fsym": "BTC",
+            "tsym": "CLP",
+            "last_update": 1554979161
+        },
+        {
+            "exchange": "Coinnest",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1554979161
+        },
+        {
+            "exchange": "Graviex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979165
+        },
+        {
+            "exchange": "Graviex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979165
+        },
+        {
+            "exchange": "Graviex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554979165
+        },
+        {
+            "exchange": "Graviex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979165
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1554979168
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979177
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BSV",
+            "fsym": "BTC",
+            "tsym": "BSV",
+            "last_update": 1554979179
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XLM",
+            "fsym": "BTC",
+            "tsym": "XLM",
+            "last_update": 1554979179
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EMC2",
+            "fsym": "BTC",
+            "tsym": "EMC2",
+            "last_update": 1554979179
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1554979179
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GNT",
+            "fsym": "BTC",
+            "tsym": "GNT",
+            "last_update": 1554979179
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SNT",
+            "fsym": "BTC",
+            "tsym": "SNT",
+            "last_update": 1554979179
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "STRAT",
+            "fsym": "BTC",
+            "tsym": "STRAT",
+            "last_update": 1554979180
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GTO",
+            "fsym": "BTC",
+            "tsym": "GTO",
+            "last_update": 1554979180
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "WAVES",
+            "fsym": "BTC",
+            "tsym": "WAVES",
+            "last_update": 1554979180
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979180
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "POWR",
+            "fsym": "BTC",
+            "tsym": "POWR",
+            "last_update": 1554979180
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LTC",
+            "fsym": "BTC",
+            "tsym": "LTC",
+            "last_update": 1554979180
+        },
+        {
+            "exchange": "Upbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DASH",
+            "fsym": "BTC",
+            "tsym": "DASH",
+            "last_update": 1554979180
+        },
+        {
+            "exchange": "DSX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554979240
+        },
+        {
+            "exchange": "DSX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554979240
+        },
+        {
+            "exchange": "DSX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979241
+        },
+        {
+            "exchange": "DSX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979241
+        },
+        {
+            "exchange": "DSX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979241
+        },
+        {
+            "exchange": "DSX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EURS",
+            "fsym": "BTC",
+            "tsym": "EURS",
+            "last_update": 1554979241
+        },
+        {
+            "exchange": "DSX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TRY",
+            "fsym": "BTC",
+            "tsym": "TRY",
+            "last_update": 1554979241
+        },
+        {
+            "exchange": "CoinEx",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979246
+        },
+        {
+            "exchange": "CoinEx",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979248
+        },
+        {
+            "exchange": "Poloniex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1562774703
+        },
+        {
+            "exchange": "CoinEx",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1554979251
+        },
+        {
+            "exchange": "Braziliex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BRL",
+            "fsym": "BTC",
+            "tsym": "BRL",
+            "last_update": 1554979251
+        },
+        {
+            "exchange": "Braziliex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979252
+        },
+        {
+            "exchange": "Bitlish",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979254
+        },
+        {
+            "exchange": "Bitlish",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554979254
+        },
+        {
+            "exchange": "Bitlish",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979254
+        },
+        {
+            "exchange": "Bitlish",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554979256
+        },
+        {
+            "exchange": "Bitlish",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979256
+        },
+        {
+            "exchange": "Bitlish",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979256
+        },
+        {
+            "exchange": "CoinDeal",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979257
+        },
+        {
+            "exchange": "CoinDeal",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979257
+        },
+        {
+            "exchange": "CoinDeal",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554979257
+        },
+        {
+            "exchange": "CoinDeal",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PLN",
+            "fsym": "BTC",
+            "tsym": "PLN",
+            "last_update": 1554979258
+        },
+        {
+            "exchange": "CoinDeal",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1554979258
+        },
+        {
+            "exchange": "CoinDeal",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979258
+        },
+        {
+            "exchange": "Paymium",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979258
+        },
+        {
+            "exchange": "Buda",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CLP",
+            "fsym": "BTC",
+            "tsym": "CLP",
+            "last_update": 1554979258
+        },
+        {
+            "exchange": "Buda",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PEN",
+            "fsym": "BTC",
+            "tsym": "PEN",
+            "last_update": 1554979258
+        },
+        {
+            "exchange": "Buda",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "COP",
+            "fsym": "BTC",
+            "tsym": "COP",
+            "last_update": 1554979258
+        },
+        {
+            "exchange": "Buda",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ARS",
+            "fsym": "BTC",
+            "tsym": "ARS",
+            "last_update": 1554979258
+        },
+        {
+            "exchange": "TheRockTrading",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1562774719
+        },
+        {
+            "exchange": "Neraex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979267
+        },
+        {
+            "exchange": "Neraex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUSD",
+            "fsym": "BTC",
+            "tsym": "EUSD",
+            "last_update": 1554979267
+        },
+        {
+            "exchange": "BTCTurk",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TRY",
+            "fsym": "BTC",
+            "tsym": "TRY",
+            "last_update": 1554979267
+        },
+        {
+            "exchange": "BTCTurk",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979267
+        },
+        {
+            "exchange": "BitMart",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979268
+        },
+        {
+            "exchange": "LBank",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979273
+        },
+        {
+            "exchange": "LBank",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979277
+        },
+        {
+            "exchange": "ZB",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "QC",
+            "fsym": "BTC",
+            "tsym": "QC",
+            "last_update": 1554979278
+        },
+        {
+            "exchange": "ZB",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979278
+        },
+        {
+            "exchange": "ZB",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1554979283
+        },
+        {
+            "exchange": "Nebula",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979297
+        },
+        {
+            "exchange": "Nebula",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EURT",
+            "fsym": "BTC",
+            "tsym": "EURT",
+            "last_update": 1554979297
+        },
+        {
+            "exchange": "Nebula",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETH",
+            "fsym": "BTC",
+            "tsym": "ETH",
+            "last_update": 1554979298
+        },
+        {
+            "exchange": "SingularityX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979299
+        },
+        {
+            "exchange": "SingularityX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979299
+        },
+        {
+            "exchange": "Simex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979299
+        },
+        {
+            "exchange": "Simex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554979299
+        },
+        {
+            "exchange": "Simex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979303
+        },
+        {
+            "exchange": "RightBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BCY",
+            "fsym": "BTC",
+            "tsym": "BCY",
+            "last_update": 1554979305
+        },
+        {
+            "exchange": "RightBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979306
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979308
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETH",
+            "fsym": "BTC",
+            "tsym": "ETH",
+            "last_update": 1554979309
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BITCNY",
+            "fsym": "BTC",
+            "tsym": "BITCNY",
+            "last_update": 1554979309
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BTS",
+            "fsym": "BTC",
+            "tsym": "BTS",
+            "last_update": 1554979310
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ATM",
+            "fsym": "BTC",
+            "tsym": "ATM",
+            "last_update": 1554979312
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BLOCKPAY",
+            "fsym": "BTC",
+            "tsym": "BLOCKPAY",
+            "last_update": 1554979317
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ARDR",
+            "fsym": "BTC",
+            "tsym": "ARDR",
+            "last_update": 1554979319
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AMP",
+            "fsym": "BTC",
+            "tsym": "AMP",
+            "last_update": 1554979320
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "B2X",
+            "fsym": "BTC",
+            "tsym": "B2X",
+            "last_update": 1554979322
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BITGOLD",
+            "fsym": "BTC",
+            "tsym": "BITGOLD",
+            "last_update": 1554979322
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BITEUR",
+            "fsym": "BTC",
+            "tsym": "BITEUR",
+            "last_update": 1554979323
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ATB",
+            "fsym": "BTC",
+            "tsym": "ATB",
+            "last_update": 1554979323
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BITUSD",
+            "fsym": "BTC",
+            "tsym": "BITUSD",
+            "last_update": 1554979324
+        },
+        {
+            "exchange": "OpenLedger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AGRS",
+            "fsym": "BTC",
+            "tsym": "AGRS",
+            "last_update": 1554979324
+        },
+        {
+            "exchange": "TrustDEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1562774748
+        },
+        {
+            "exchange": "TrustDEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VND",
+            "fsym": "BTC",
+            "tsym": "VND",
+            "last_update": 1562774748
+        },
+        {
+            "exchange": "TrustDEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1562774748
+        },
+        {
+            "exchange": "Kuna",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UAH",
+            "fsym": "BTC",
+            "tsym": "UAH",
+            "last_update": 1554979329
+        },
+        {
+            "exchange": "Kuna",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979330
+        },
+        {
+            "exchange": "Kuna",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979330
+        },
+        {
+            "exchange": "Kuna",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EURS",
+            "fsym": "BTC",
+            "tsym": "EURS",
+            "last_update": 1554979330
+        },
+        {
+            "exchange": "CryptoCarbon",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETH",
+            "fsym": "BTC",
+            "tsym": "ETH",
+            "last_update": 1554979331
+        },
+        {
+            "exchange": "FCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979331
+        },
+        {
+            "exchange": "CoinBene",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979335
+        },
+        {
+            "exchange": "HitBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979344
+        },
+        {
+            "exchange": "DigiFinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DFT",
+            "fsym": "BTC",
+            "tsym": "DFXT",
+            "last_update": 1562839201
+        },
+        {
+            "exchange": "Gatecoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1562862608
+        },
+        {
+            "exchange": "HitBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1554979370
+        },
+        {
+            "exchange": "HitBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979371
+        },
+        {
+            "exchange": "WEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1562862622
+        },
+        {
+            "exchange": "WEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HKD",
+            "fsym": "BTC",
+            "tsym": "HKD",
+            "last_update": 1562862623
+        },
+        {
+            "exchange": "WorldCryptoCap",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1562862624
+        },
+        {
+            "exchange": "HitBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979373
+        },
+        {
+            "exchange": "HitBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1554979373
+        },
+        {
+            "exchange": "HitBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GUSD",
+            "fsym": "BTC",
+            "tsym": "GUSD",
+            "last_update": 1554979375
+        },
+        {
+            "exchange": "WorldCryptoCap",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1562862627
+        },
+        {
+            "exchange": "WorldCryptoCap",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1562862628
+        },
+        {
+            "exchange": "HitBTC",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EURS",
+            "fsym": "BTC",
+            "tsym": "EURS",
+            "last_update": 1554979375
+        },
+        {
+            "exchange": "Hikenex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETH",
+            "fsym": "BTC",
+            "tsym": "ETH",
+            "last_update": 1554979380
+        },
+        {
+            "exchange": "Hikenex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HIKEN",
+            "fsym": "BTC",
+            "tsym": "HIKEN",
+            "last_update": 1554979380
+        },
+        {
+            "exchange": "IDAX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979384
+        },
+        {
+            "exchange": "IndependentReserve",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554979389
+        },
+        {
+            "exchange": "IndependentReserve",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979389
+        },
+        {
+            "exchange": "IndependentReserve",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "NZD",
+            "fsym": "BTC",
+            "tsym": "NZD",
+            "last_update": 1554979389
+        },
+        {
+            "exchange": "BTCBOX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979392
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BIX",
+            "fsym": "BTC",
+            "tsym": "BIX",
+            "last_update": 1554979393
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BNB",
+            "fsym": "BTC",
+            "tsym": "BNB",
+            "last_update": 1554979394
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DOGE",
+            "fsym": "BTC",
+            "tsym": "DOGE",
+            "last_update": 1554979394
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LTC",
+            "fsym": "BTC",
+            "tsym": "LTC",
+            "last_update": 1554979394
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ETH",
+            "fsym": "BTC",
+            "tsym": "ETH",
+            "last_update": 1554979394
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KNC",
+            "fsym": "BTC",
+            "tsym": "KNC",
+            "last_update": 1554979395
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979395
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979395
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EOS",
+            "fsym": "BTC",
+            "tsym": "EOS",
+            "last_update": 1554979395
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HT",
+            "fsym": "BTC",
+            "tsym": "HT",
+            "last_update": 1554979399
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "COB",
+            "fsym": "BTC",
+            "tsym": "COB",
+            "last_update": 1554979399
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "COSS",
+            "fsym": "BTC",
+            "tsym": "COSS",
+            "last_update": 1554979400
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KCS",
+            "fsym": "BTC",
+            "tsym": "KCS",
+            "last_update": 1554979405
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "OMG",
+            "fsym": "BTC",
+            "tsym": "OMG",
+            "last_update": 1554979406
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BCH",
+            "fsym": "BTC",
+            "tsym": "BCH",
+            "last_update": 1554979406
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BMH",
+            "fsym": "BTC",
+            "tsym": "BMH",
+            "last_update": 1554979406
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NANO",
+            "fsym": "BTC",
+            "tsym": "NANO",
+            "last_update": 1554979406
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BDG",
+            "fsym": "BTC",
+            "tsym": "BDG",
+            "last_update": 1554979407
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BNT",
+            "fsym": "BTC",
+            "tsym": "BNT",
+            "last_update": 1554979407
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XVG",
+            "fsym": "BTC",
+            "tsym": "XVG",
+            "last_update": 1554979407
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979408
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979408
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XRP",
+            "fsym": "BTC",
+            "tsym": "XRP",
+            "last_update": 1554979408
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554979408
+        },
+        {
+            "exchange": "Tokenomy",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979411
+        },
+        {
+            "exchange": "CoinHub",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979411
+        },
+        {
+            "exchange": "CoinHub",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1554979412
+        },
+        {
+            "exchange": "CoinHub",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979412
+        },
+        {
+            "exchange": "CoinHub",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979413
+        },
+        {
+            "exchange": "CoinHub",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1554979413
+        },
+        {
+            "exchange": "Lykke",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979414
+        },
+        {
+            "exchange": "Lykke",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979414
+        },
+        {
+            "exchange": "Lykke",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CHF",
+            "fsym": "BTC",
+            "tsym": "CHF",
+            "last_update": 1554979414
+        },
+        {
+            "exchange": "Lykke",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LKK1Y",
+            "fsym": "BTC",
+            "tsym": "LKK1Y",
+            "last_update": 1554979414
+        },
+        {
+            "exchange": "Lykke",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LKK",
+            "fsym": "BTC",
+            "tsym": "LKK",
+            "last_update": 1554979415
+        },
+        {
+            "exchange": "Lykke",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554979415
+        },
+        {
+            "exchange": "Lykke",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979415
+        },
+        {
+            "exchange": "BitBay",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979423
+        },
+        {
+            "exchange": "BitBay",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979423
+        },
+        {
+            "exchange": "BitBay",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PLN",
+            "fsym": "BTC",
+            "tsym": "PLN",
+            "last_update": 1554979423
+        },
+        {
+            "exchange": "Globitex",
+            "exchange_fsym": "XBT",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979426
+        },
+        {
+            "exchange": "Nlexch",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979429
+        },
+        {
+            "exchange": "Ore",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979432
+        },
+        {
+            "exchange": "CoinFalcon",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979432
+        },
+        {
+            "exchange": "CoinFalcon",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979433
+        },
+        {
+            "exchange": "FCCE",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979433
+        },
+        {
+            "exchange": "Bitsane",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979434
+        },
+        {
+            "exchange": "Bitsane",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979434
+        },
+        {
+            "exchange": "Bitsane",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DOGE",
+            "fsym": "BTC",
+            "tsym": "DOGE",
+            "last_update": 1554979434
+        },
+        {
+            "exchange": "Bitsane",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979436
+        },
+        {
+            "exchange": "ACX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554979436
+        },
+        {
+            "exchange": "ACX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979436
+        },
+        {
+            "exchange": "BTCAlpha",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979437
+        },
+        {
+            "exchange": "BTCAlpha",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979437
+        },
+        {
+            "exchange": "IQFinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979443
+        },
+        {
+            "exchange": "iCoinbay",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979444
+        },
+        {
+            "exchange": "StocksExchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979445
+        },
+        {
+            "exchange": "StocksExchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979445
+        },
+        {
+            "exchange": "StocksExchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979446
+        },
+        {
+            "exchange": "StocksExchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554979449
+        },
+        {
+            "exchange": "StocksExchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979449
+        },
+        {
+            "exchange": "P2PB2B",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979452
+        },
+        {
+            "exchange": "P2PB2B",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UAH",
+            "fsym": "BTC",
+            "tsym": "UAH",
+            "last_update": 1554979454
+        },
+        {
+            "exchange": "Bitinfi",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979456
+        },
+        {
+            "exchange": "CoinJar",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554979456
+        },
+        {
+            "exchange": "CoinPulse",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979456
+        },
+        {
+            "exchange": "Zecoex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1562862634
+        },
+        {
+            "exchange": "Cryptonit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979457
+        },
+        {
+            "exchange": "Cryptonit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979457
+        },
+        {
+            "exchange": "InstantBitex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979473
+        },
+        {
+            "exchange": "InstantBitex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979475
+        },
+        {
+            "exchange": "BCEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979475
+        },
+        {
+            "exchange": "BCEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XLM",
+            "fsym": "BTC",
+            "tsym": "XLM",
+            "last_update": 1554979475
+        },
+        {
+            "exchange": "BCEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EMC2",
+            "fsym": "BTC",
+            "tsym": "EMC2",
+            "last_update": 1554979475
+        },
+        {
+            "exchange": "Bitforex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979476
+        },
+        {
+            "exchange": "Bitforex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979480
+        },
+        {
+            "exchange": "CoinTiger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979482
+        },
+        {
+            "exchange": "CoinTiger",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BITCNY",
+            "fsym": "BTC",
+            "tsym": "BITCNY",
+            "last_update": 1554979483
+        },
+        {
+            "exchange": "TDAX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1562862643
+        },
+        {
+            "exchange": "Threexbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CREDIT",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979486
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HKD",
+            "fsym": "BTC",
+            "tsym": "HKD",
+            "last_update": 1554979487
+        },
+        {
+            "exchange": "TDAX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1562862644
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979489
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1554979489
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PHP",
+            "fsym": "BTC",
+            "tsym": "PHP",
+            "last_update": 1554979489
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979489
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979489
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1554979489
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IDR",
+            "fsym": "BTC",
+            "tsym": "IDR",
+            "last_update": 1554979490
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "INR",
+            "fsym": "BTC",
+            "tsym": "INR",
+            "last_update": 1554979492
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1554979492
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979498
+        },
+        {
+            "exchange": "Liquid",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GUSD",
+            "fsym": "BTC",
+            "tsym": "GUSD",
+            "last_update": 1554979498
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979508
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979508
+        },
+        {
+            "exchange": "EXRATES",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979508
+        },
+        {
+            "exchange": "Coinsbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979510
+        },
+        {
+            "exchange": "Bitkub",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "THB",
+            "fsym": "BTC",
+            "tsym": "THB",
+            "last_update": 1554979511
+        },
+        {
+            "exchange": "DigiFinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979512
+        },
+        {
+            "exchange": "DigiFinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979516
+        },
+        {
+            "exchange": "DigiFinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979516
+        },
+        {
+            "exchange": "NDAX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1554979517
+        },
+        {
+            "exchange": "NDAX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979518
+        },
+        {
+            "exchange": "Coinmate",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979518
+        },
+        {
+            "exchange": "Coinmate",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CZK",
+            "fsym": "BTC",
+            "tsym": "CZK",
+            "last_update": 1554979518
+        },
+        {
+            "exchange": "Nuex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EURN",
+            "fsym": "BTC",
+            "tsym": "EURN",
+            "last_update": 1554979519
+        },
+        {
+            "exchange": "Nuex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1554979519
+        },
+        {
+            "exchange": "Nuex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1554979520
+        },
+        {
+            "exchange": "Nuex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979520
+        },
+        {
+            "exchange": "Incorex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979522
+        },
+        {
+            "exchange": "Incorex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1554979522
+        },
+        {
+            "exchange": "Incorex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979522
+        },
+        {
+            "exchange": "Catex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979548
+        },
+        {
+            "exchange": "Minebit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979549
+        },
+        {
+            "exchange": "Exenium",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979549
+        },
+        {
+            "exchange": "CBX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979551
+        },
+        {
+            "exchange": "ZBG",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979552
+        },
+        {
+            "exchange": "Codex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979552
+        },
+        {
+            "exchange": "BTCExchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979560
+        },
+        {
+            "exchange": "BTCExchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979560
+        },
+        {
+            "exchange": "CryptoExchangeWS",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979561
+        },
+        {
+            "exchange": "Bgogo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979562
+        },
+        {
+            "exchange": "Bgogo",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GUSD",
+            "fsym": "BTC",
+            "tsym": "GUSD",
+            "last_update": 1554979562
+        },
+        {
+            "exchange": "Bitpoint",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "Bitpoint",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "Bitpoint",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "Bitpoint",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HKD",
+            "fsym": "BTC",
+            "tsym": "HKD",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "Binanceje",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "Binanceje",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "xena",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "ExtStock",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "ExtStock",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1554979563
+        },
+        {
+            "exchange": "LiveCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1562926694
+        },
+        {
+            "exchange": "fatbtc",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GUSD",
+            "fsym": "BTC",
+            "tsym": "GUSD",
+            "last_update": 1554979567
+        },
+        {
+            "exchange": "fatbtc",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1554979567
+        },
+        {
+            "exchange": "fatbtc",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979567
+        },
+        {
+            "exchange": "fatbtc",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979567
+        },
+        {
+            "exchange": "bw",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979567
+        },
+        {
+            "exchange": "bitmax",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1554979569
+        },
+        {
+            "exchange": "bitmax",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1554979571
+        },
+        {
+            "exchange": "bitmax",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1554979571
+        },
+        {
+            "exchange": "BitFlip",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "BitFlip",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "BitFlip",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "THB",
+            "fsym": "BTC",
+            "tsym": "THB",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "BitFlip",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UAH",
+            "fsym": "BTC",
+            "tsym": "UAH",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "BitFlip",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "BTCChina",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "Coincap",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1534204800
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CHF",
+            "fsym": "BTC",
+            "tsym": "CHF",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CZK",
+            "fsym": "BTC",
+            "tsym": "CZK",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DKK",
+            "fsym": "BTC",
+            "tsym": "DKK",
+            "last_update": 1534377600
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NOK",
+            "fsym": "BTC",
+            "tsym": "NOK",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PLN",
+            "fsym": "BTC",
+            "tsym": "PLN",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Coinroom",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1534377600
+        },
+        {
+            "exchange": "CoinsBank",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "CoinsBank",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "CoinsBank",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "CoinsBank",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "Cryptagio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1534377600
+        },
+        {
+            "exchange": "Cryptopia",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NZDT",
+            "fsym": "BTC",
+            "tsym": "NZDT",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Cryptopia",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Foxbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BRL",
+            "fsym": "BTC",
+            "tsym": "BRL",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Foxbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "LAToken",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JSE",
+            "fsym": "BTC",
+            "tsym": "JSE",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "LAToken",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1541721600
+        },
+        {
+            "exchange": "Liqui",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "QuadrigaCX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "QuadrigaCX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AUD",
+            "fsym": "BTC",
+            "tsym": "AUD",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HKD",
+            "fsym": "BTC",
+            "tsym": "HKD",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IDR",
+            "fsym": "BTC",
+            "tsym": "IDR",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "INR",
+            "fsym": "BTC",
+            "tsym": "INR",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PHP",
+            "fsym": "BTC",
+            "tsym": "PHP",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SGD",
+            "fsym": "BTC",
+            "tsym": "SGD",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "Quoine",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "StocksExchangeio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PHP",
+            "fsym": "BTC",
+            "tsym": "PHP",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "StocksExchangeio",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "TDAX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "THB",
+            "fsym": "BTC",
+            "tsym": "THB",
+            "last_update": 1534377600
+        },
+        {
+            "exchange": "TDAX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "WEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GIP",
+            "fsym": "BTC",
+            "tsym": "GIP",
+            "last_update": 1564487209
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GMD",
+            "fsym": "BTC",
+            "tsym": "GMD",
+            "last_update": 1564487215
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GNF",
+            "fsym": "BTC",
+            "tsym": "GNF",
+            "last_update": 1564487222
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GTQ",
+            "fsym": "BTC",
+            "tsym": "GTQ",
+            "last_update": 1564487228
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GYD",
+            "fsym": "BTC",
+            "tsym": "GYD",
+            "last_update": 1564487233
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HNL",
+            "fsym": "BTC",
+            "tsym": "HNL",
+            "last_update": 1564487238
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HRK",
+            "fsym": "BTC",
+            "tsym": "HRK",
+            "last_update": 1564487246
+        },
+        {
+            "exchange": "WEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUR",
+            "fsym": "BTC",
+            "tsym": "RUR",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "WEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1534118400
+        },
+        {
+            "exchange": "WEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "Zecoex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "INR",
+            "fsym": "BTC",
+            "tsym": "INR",
+            "last_update": 1536796800
+        },
+        {
+            "exchange": "Zecoex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1543449600
+        },
+        {
+            "exchange": "Zecoex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1535587200
+        },
+        {
+            "exchange": "Coinsbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PLC",
+            "fsym": "BTC",
+            "tsym": "PLTC",
+            "last_update": 1564132149
+        },
+        {
+            "exchange": "Coinsbit",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1564132190
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "YER",
+            "fsym": "BTC",
+            "tsym": "YER",
+            "last_update": 1564410337
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XPF",
+            "fsym": "BTC",
+            "tsym": "XPF",
+            "last_update": 1564410346
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HTG",
+            "fsym": "BTC",
+            "tsym": "HTG",
+            "last_update": 1564487252
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SLL",
+            "fsym": "BTC",
+            "tsym": "SLL",
+            "last_update": 1564488388
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SOS",
+            "fsym": "BTC",
+            "tsym": "SOS",
+            "last_update": 1564488393
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DASH",
+            "fsym": "BTC",
+            "tsym": "DASH",
+            "last_update": 1564496485
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "WST",
+            "fsym": "BTC",
+            "tsym": "WST",
+            "last_update": 1564410374
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VND",
+            "fsym": "BTC",
+            "tsym": "VND",
+            "last_update": 1564410381
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "HUF",
+            "fsym": "BTC",
+            "tsym": "HUF",
+            "last_update": 1564487263
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IDR",
+            "fsym": "BTC",
+            "tsym": "IDR",
+            "last_update": 1564487268
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SVC",
+            "fsym": "BTC",
+            "tsym": "SVC",
+            "last_update": 1564488413
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SYP",
+            "fsym": "BTC",
+            "tsym": "SYP",
+            "last_update": 1564488419
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "SZL",
+            "fsym": "BTC",
+            "tsym": "SZL",
+            "last_update": 1564488425
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "THB",
+            "fsym": "BTC",
+            "tsym": "THB",
+            "last_update": 1564488432
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "NEO",
+            "fsym": "BTC",
+            "tsym": "NEO",
+            "last_update": 1564496503
+        },
+        {
+            "exchange": "Nexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1564496525
+        },
+        {
+            "exchange": "aliexchange",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1556809398
+        },
+        {
+            "exchange": "Bleutrade",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1564411375
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IQD",
+            "fsym": "BTC",
+            "tsym": "IQD",
+            "last_update": 1564487915
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TND",
+            "fsym": "BTC",
+            "tsym": "TND",
+            "last_update": 1564488444
+        },
+        {
+            "exchange": "P2PB2B",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1556809793
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "IRR",
+            "fsym": "BTC",
+            "tsym": "IRR",
+            "last_update": 1564487949
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ISK",
+            "fsym": "BTC",
+            "tsym": "ISK",
+            "last_update": 1564487954
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JMD",
+            "fsym": "BTC",
+            "tsym": "JMD",
+            "last_update": 1564487960
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JOD",
+            "fsym": "BTC",
+            "tsym": "JOD",
+            "last_update": 1564487966
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KES",
+            "fsym": "BTC",
+            "tsym": "KES",
+            "last_update": 1564487972
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KGS",
+            "fsym": "BTC",
+            "tsym": "KGS",
+            "last_update": 1564487978
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KMF",
+            "fsym": "BTC",
+            "tsym": "KMF",
+            "last_update": 1564487986
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KWD",
+            "fsym": "BTC",
+            "tsym": "KWD",
+            "last_update": 1564487993
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TRY",
+            "fsym": "BTC",
+            "tsym": "TRY",
+            "last_update": 1564488458
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TTD",
+            "fsym": "BTC",
+            "tsym": "TTD",
+            "last_update": 1564488462
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TWD",
+            "fsym": "BTC",
+            "tsym": "TWD",
+            "last_update": 1564488468
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TZS",
+            "fsym": "BTC",
+            "tsym": "TZS",
+            "last_update": 1564488473
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UAH",
+            "fsym": "BTC",
+            "tsym": "UAH",
+            "last_update": 1564488482
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UGX",
+            "fsym": "BTC",
+            "tsym": "UGX",
+            "last_update": 1564488492
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UYU",
+            "fsym": "BTC",
+            "tsym": "UYU",
+            "last_update": 1564488497
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "UZS",
+            "fsym": "BTC",
+            "tsym": "UZS",
+            "last_update": 1564488503
+        },
+        {
+            "exchange": "Liqnet",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1564499202
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KZT",
+            "fsym": "BTC",
+            "tsym": "KZT",
+            "last_update": 1564488104
+        },
+        {
+            "exchange": "BitSquare",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XAF",
+            "fsym": "BTC",
+            "tsym": "XAF",
+            "last_update": 1564488516
+        },
+        {
+            "exchange": "P2PB2B",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1556811362
+        },
+        {
+            "exchange": "LiveCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1556811398
+        },
+        {
+            "exchange": "P2PB2B",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1557235094
+        },
+        {
+            "exchange": "coss",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1557408446
+        },
+        {
+            "exchange": "coss",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1557409169
+        },
+        {
+            "exchange": "coss",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GUSD",
+            "fsym": "BTC",
+            "tsym": "GUSD",
+            "last_update": 1557409367
+        },
+        {
+            "exchange": "coss",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1557409734
+        },
+        {
+            "exchange": "coss",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1557409843
+        },
+        {
+            "exchange": "coss",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1557410040
+        },
+        {
+            "exchange": "cobinhood",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1557477751
+        },
+        {
+            "exchange": "cobinhood",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1557477754
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EURS",
+            "fsym": "BTC",
+            "tsym": "EURS",
+            "last_update": 1563375996
+        },
+        {
+            "exchange": "huobijapan",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1558443837
+        },
+        {
+            "exchange": "huobikorea",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1558447663
+        },
+        {
+            "exchange": "huobikorea",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1558449009
+        },
+        {
+            "exchange": "idevex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1558600824
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JUMP",
+            "fsym": "BTC",
+            "tsym": "JUMP",
+            "last_update": 1559058778
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XMR",
+            "fsym": "BTC",
+            "tsym": "XMR",
+            "last_update": 1559058821
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ZRX",
+            "fsym": "BTC",
+            "tsym": "ZRX",
+            "last_update": 1559133220
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BST",
+            "fsym": "BTC",
+            "tsym": "BST",
+            "last_update": 1559144894
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "AYA",
+            "fsym": "BTC",
+            "tsym": "AYA",
+            "last_update": 1559205284
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BLAST",
+            "fsym": "BTC",
+            "tsym": "BLAST",
+            "last_update": 1559224255
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "WGR",
+            "fsym": "BTC",
+            "tsym": "WGR",
+            "last_update": 1559229045
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BCN",
+            "fsym": "BTC",
+            "tsym": "BCN",
+            "last_update": 1559229063
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "LTC",
+            "fsym": "BTC",
+            "tsym": "LTC",
+            "last_update": 1559229068
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "BTG",
+            "fsym": "BTC",
+            "tsym": "BTG",
+            "last_update": 1559229106
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "URALS",
+            "fsym": "BTC",
+            "tsym": "URALS",
+            "last_update": 1559229135
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "ZEC",
+            "fsym": "BTC",
+            "tsym": "ZEC",
+            "last_update": 1559229137
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "INN",
+            "fsym": "BTC",
+            "tsym": "INN",
+            "last_update": 1559229874
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "OMG",
+            "fsym": "BTC",
+            "tsym": "OMG",
+            "last_update": 1559230084
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1559313821
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1559317209
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1559317219
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1559317271
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1559317316
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1559317657
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1559317658
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1559317677
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1559317705
+        },
+        {
+            "exchange": "crex24",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "PAX",
+            "fsym": "BTC",
+            "tsym": "PAX",
+            "last_update": 1559317824
+        },
+        {
+            "exchange": "hbus",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1559747854
+        },
+        {
+            "exchange": "hbus",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1559747860
+        },
+        {
+            "exchange": "OKEX",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDK",
+            "fsym": "BTC",
+            "tsym": "USDK",
+            "last_update": 1559827909
+        },
+        {
+            "exchange": "IQFinex",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1560175656
+        },
+        {
+            "exchange": "coinzest",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "KRW",
+            "fsym": "BTC",
+            "tsym": "KRW",
+            "last_update": 1560431907
+        },
+        {
+            "exchange": "LiveCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1560506115
+        },
+        {
+            "exchange": "Kuna",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1560783229
+        },
+        {
+            "exchange": "CoinDeal",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1560790104
+        },
+        {
+            "exchange": "gopax",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1560851617
+        },
+        {
+            "exchange": "coinfield",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CAD",
+            "fsym": "BTC",
+            "tsym": "CAD",
+            "last_update": 1560868141
+        },
+        {
+            "exchange": "coinfield",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1560868141
+        },
+        {
+            "exchange": "coinfield",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GBP",
+            "fsym": "BTC",
+            "tsym": "GBP",
+            "last_update": 1560868142
+        },
+        {
+            "exchange": "coinfield",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "JPY",
+            "fsym": "BTC",
+            "tsym": "JPY",
+            "last_update": 1560868143
+        },
+        {
+            "exchange": "coinfield",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1560868146
+        },
+        {
+            "exchange": "coinfield",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1560868149
+        },
+        {
+            "exchange": "coinfield",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "XRP",
+            "fsym": "BTC",
+            "tsym": "XRP",
+            "last_update": 1560868150
+        },
+        {
+            "exchange": "BTCAlpha",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDQ",
+            "fsym": "BTC",
+            "tsym": "USDQ",
+            "last_update": 1560868176
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUSD",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1560869269
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1560869279
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "GUSD",
+            "fsym": "BTC",
+            "tsym": "GUSD",
+            "last_update": 1560869301
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "EUR",
+            "fsym": "BTC",
+            "tsym": "EUR",
+            "last_update": 1560869303
+        },
+        {
+            "exchange": "OKCoin",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDC",
+            "fsym": "BTC",
+            "tsym": "USDC",
+            "last_update": 1560869317
+        },
+        {
+            "exchange": "coinall",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "DAI",
+            "fsym": "BTC",
+            "tsym": "DAI",
+            "last_update": 1561459493
+        },
+        {
+            "exchange": "coinall",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDT",
+            "fsym": "BTC",
+            "tsym": "USDT",
+            "last_update": 1561459698
+        },
+        {
+            "exchange": "coinall",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USDK",
+            "fsym": "BTC",
+            "tsym": "USDK",
+            "last_update": 1561459773
+        },
+        {
+            "exchange": "CoinDeal",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "RUB",
+            "fsym": "BTC",
+            "tsym": "RUB",
+            "last_update": 1561471382
+        },
+        {
+            "exchange": "CoinEx",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "TUS",
+            "fsym": "BTC",
+            "tsym": "TUSD",
+            "last_update": 1561472466
+        },
+        {
+            "exchange": "primexbt",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1561558774
+        },
+        {
+            "exchange": "bingcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "CNY",
+            "fsym": "BTC",
+            "tsym": "CNY",
+            "last_update": 1561559399
+        },
+        {
+            "exchange": "bingcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "USD",
+            "fsym": "BTC",
+            "tsym": "USD",
+            "last_update": 1561559399
+        },
+        {
+            "exchange": "bingcoins",
+            "exchange_fsym": "BTC",
+            "exchange_tsym": "VND",
+            "fsym": "BTC",
+            "tsym": "VND",
+            "last_update": 1561559400
+        }
+    ]
+}

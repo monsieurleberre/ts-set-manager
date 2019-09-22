@@ -1,0 +1,10 @@
+{
+    "name": "Top 3 Infrastructure Services",
+    "symbol": "L1INF003",
+    "targetUsdPrice": 0.1,
+    "componentAddresses": [
+        "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+        "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+        "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8"
+    ]
+}

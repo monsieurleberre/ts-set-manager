@@ -1,0 +1,49 @@
+{
+  "name": "Top 3 Financial Services",
+  "symbol": "L1FIN003",
+  "components": [
+    {
+      "address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+      "name": "Monaco",
+      "symbol": "MCO",
+      "decimals": 8,
+      "usdBidAsk": {
+        "bid": "3.299",
+        "ask": "3.299"
+      },
+      "proportion": "0.33333333333334"
+    },
+    {
+      "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "name": "OMGToken",
+      "symbol": "OMG",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "1.048",
+        "ask": "1.048"
+      },
+      "proportion": "0.33333333333333"
+    },
+    {
+      "address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+      "name": "Pundi X Token",
+      "symbol": "NPXS",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.0003542",
+        "ask": "0.0003542"
+      },
+      "proportion": "0.33333333333333"
+    }
+  ],
+  "componentAddresses": [
+    "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+    "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+    "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
+  ],
+  "targetUsdPrice": 0.1,
+  "usdBidAsk": {
+    "bid": "1.449118066666685165486",
+    "ask": "1.449118066666685165486"
+  }
+}

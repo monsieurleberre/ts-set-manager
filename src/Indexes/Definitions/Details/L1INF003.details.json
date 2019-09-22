@@ -1,0 +1,49 @@
+{
+  "name": "Top 3 Infrastructure Services",
+  "symbol": "L1INF003",
+  "components": [
+    {
+      "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+      "name": "HoloToken",
+      "symbol": "HOT",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.0008073",
+        "ask": "0.0008073"
+      },
+      "proportion": "0.33333333333334"
+    },
+    {
+      "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+      "name": "Status Network Token",
+      "symbol": "SNT",
+      "decimals": 18,
+      "usdBidAsk": {
+        "bid": "0.01452",
+        "ask": "0.01452"
+      },
+      "proportion": "0.33333333333333"
+    },
+    {
+      "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+      "name": "Tierion Network Token",
+      "symbol": "TNT",
+      "decimals": 8,
+      "usdBidAsk": {
+        "bid": "0.02852",
+        "ask": "0.02852"
+      },
+      "proportion": "0.33333333333333"
+    }
+  ],
+  "componentAddresses": [
+    "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+    "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8"
+  ],
+  "targetUsdPrice": 0.1,
+  "usdBidAsk": {
+    "bid": "0.014615766666666528582",
+    "ask": "0.014615766666666528582"
+  }
+}
