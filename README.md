@@ -1,4 +1,4 @@
-#Set Manager
+# Set Manager
 
 A simple react-typescript app to allow issuing and redeeming some Known sets.
 
