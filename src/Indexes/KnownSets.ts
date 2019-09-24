@@ -40,13 +40,13 @@ export const KnownSetsAddresses = new Map<string, Address>(
     ]
 )
 
-export const KnownSetsSymbols = new Array(KnownSetsAddresses.size);
+export const KnownSetsSymbols = new Array<string>(KnownSetsAddresses.size);
 const keyIterator = KnownSetsAddresses.keys();
 for (let i = 0; i < KnownSetsAddresses.size; i++) {
     KnownSetsSymbols[i] = keyIterator.next().value
 }
 
-export const KnownSetsDefinitions = new Array(KnownSets.size);
+export const KnownSetsDefinitions = new Array<string>(KnownSets.size);
 const definitionIterator = KnownSets.values();
 for (let i = 0; i < KnownSets.size; i++) {
     KnownSetsDefinitions[i] = definitionIterator.next().value
