@@ -42,7 +42,6 @@ export default class App extends React.Component<AppProps, AppState> {
 
     this.indexDetailsFactory = IndexDetailsFactory.prototype;
 
-    this.handleSetAddressChange = this.handleSetAddressChange.bind(this);
     this.handleDefinitionChanged = this.handleDefinitionChanged.bind(this);
     this.createSet = this.createSet.bind(this);
     this.issueSet = this.issueSet.bind(this);
@@ -88,11 +87,6 @@ export default class App extends React.Component<AppProps, AppState> {
     }    
   }
 
-  async handleSetAddressChange(event: React.ChangeEvent<HTMLInputElement>) {
-    this.setState({ setAddress: event.target.value },
-      () => console.debug('setAddress', this.state));
-  }
-
   async handleDefinitionChanged(event: React.ChangeEvent<HTMLTextAreaElement>) {
     console.debug('raw defintion changed')
     try {
@@ -119,7 +113,12 @@ export default class App extends React.Component<AppProps, AppState> {
     try {
       var indexDetails = await this.indexDetailsFactory.getIndexDetailsFromAddress(address)
       if (!indexDetails) {
-        console.warn('Failed to retrieve index details.')
+        this.setState({
+          setAddress: address,
+          indexDetails: IndexDetails.prototype,
+          createdSetLink: URL.prototype,
+          output: ''
+        })
         return;
       }
       const detailsJson = JSON.stringify(indexDetails, null, 2)
@@ -268,9 +267,7 @@ export default class App extends React.Component<AppProps, AppState> {
             <div>
               <IndexDefinitionInput enabled={false}
                 handleInputChange={this.handleDefinitionChanged} />
-              <IndexDropdown
-                handleSelect={this.indexSelectionChanged}
-                currentSelection={indexDetails.symbol} />
+              <IndexDropdown bubbleAddressChange={this.updateDefinitionFromAddress} />
             </div>
             <div>
               {createdSetLink ? this.renderEtherScanLink(createdSetLink) : null}
